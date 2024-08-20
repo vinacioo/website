@@ -104,7 +104,7 @@ const siteConfig: SiteConfig = {
   ],
   hero: {
     title: 'Hi There & Welcome to My Corner of the Web!',
-    text: "I'm **Ethan Donovan**, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence. My approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products. I have a profound appreciation for top-notch software, visual design, and the principles of product-led growth. Feel free to explore some of my coding endeavors on <a href='https://github.com/JustGoodUI/dante-astro-theme'>GitHub</a> or follow me on <a href='https://twitter.com/justgoodui'>Twitter/X</a>.",
+    text: "Hello, I'm Vagner Inacio de Oliveira, a PhD student in Computer Engineering with a deep fascination for Artificial Intelligence and its transformative applications in the cultural sector. My research focuses on leveraging AI to advance the digitalization of museum collections, bridging the gap between technology and culture. With a foundation in Statistics from my undergraduate studies, I am passionate about pushing the boundaries of what's possible in the intersection of AI and cultural heritage. Explore my work and join me on this exciting journey of discovery.",
     image: {
       src: '/hero.jpeg',
       alt: 'A person sitting at a desk in front of a computer'
