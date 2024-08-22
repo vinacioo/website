@@ -14,7 +14,7 @@ _Quem ensina aprende ao ensinar. E quem aprende ensina ao aprender"_ - Paulo Fre
 
 ## Vagner Inácio de Oliveira - A PhD Student at the State University of Campinas
 
-__Greetings!__ I’m Paulo A. Donovan, a PhD student in Electrical Engineering with a focus on Computer Engineering, and I hold a Master’s degree in the same field. I am also a graduate in Statistics, with a deep enthusiasm for Artificial Intelligence, especially in the cultural sector. My passion lies in developing technologies that enhance lives and in advancing science for a brighter future.
+__Greetings!__ I’m __Vagner Inácio de Oliveira, a PhD student in Electrical Engineering with a focus on Computer Engineering, and I hold a Master’s degree in the same field. I am also a graduate in Statistics, with a deep enthusiasm for Artificial Intelligence, especially in the cultural sector. My passion lies in developing technologies that enhance lives and in advancing science for a brighter future.
 
 ## Skills and Expertise
 
