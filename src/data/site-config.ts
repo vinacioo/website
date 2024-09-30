@@ -106,7 +106,7 @@ const siteConfig: SiteConfig = {
     title: 'Hi There & Welcome to My Corner of the Web!',
     text: "Hello, I'm **Vagner Inacio de Oliveira**, a PhD student in Computer Engineering with a deep fascination for Artificial Intelligence and its transformative applications in the cultural sector. My research focuses on leveraging AI to advance the digitalization of museum collections, bridging the gap between technology and culture. With a foundation in Statistics from my undergraduate studies, I am passionate about pushing the boundaries of what's possible in the intersection of AI and cultural heritage. Explore my work and join me on this exciting journey of discovery.",
     image: {
-      src: '/hero.jpeg',
+      src: '/hero-mine.jpeg',
       alt: 'A person sitting at a desk in front of a computer'
     },
     actions: [
