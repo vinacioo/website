@@ -37,8 +37,8 @@ const { Content } = await publication.render();
         (prevPublication || nextPublication) && (
             <div class="my-16 sm:my-24">
                 <h2 class="mb-12 text-xl font-serif italic sm:mb-16 sm:text-2xl">View Next</h2>
-                {nextPublication && <PublicationPreview project={nextPublication} class="mb-10 sm:mb-12" headingLevel="h3" />}
-                {prevPublication && <PublicationPreview project={prevPublication} class="mb-10 sm:mb-12" headingLevel="h3" />}
+                {nextPublication && <PublicationPreview publication={nextPublication} class="mb-10 sm:mb-12" headingLevel="h3" />}
+                {prevPublication && <PublicationPreview publication={prevPublication} class="mb-10 sm:mb-12" headingLevel="h3" />}
             </div>
         )
     }
