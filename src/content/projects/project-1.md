@@ -33,7 +33,7 @@ Heritage Data Hub is a comprehensive repository designed for creating, managing,
    - Associated with 31 different labels for classification tasks
    - Can be adopted in interior objects contexts to improve training or evaluate the performance of automated image captioning
 
-## Technology Stack
+## Technology and Future Integrations
 
 - Data Processing: Python with specialized libraries for image and metadata handling
 - API Integration: Tools for efficiently accessing the Europeana API
@@ -41,10 +41,6 @@ Heritage Data Hub is a comprehensive repository designed for creating, managing,
 
 > Heritage Data Hub represents a significant step forward in making cultural heritage accessible for AI research, helping to bridge the gap between historical artifacts and modern machine learning techniques.
 
-## Outcome
-
 Heritage Data Hub continues to expand its capabilities, providing researchers with valuable datasets that enable the development of more sophisticated AI models for cultural heritage applications. These datasets facilitate the digital preservation of important cultural artifacts while enabling new ways to explore, understand, and interact with museum collections.
 
-## Getting Started
-
-1. **Clone the Repository:**
+**Access the Project:** [https://github.com/AI-Unicamp/heritage-data-hub](https://github.com/AI-Unicamp/heritage-data-hub)
