@@ -89,7 +89,8 @@ const siteConfig: SiteConfig = {
     //},
     {
       text: 'Resume',
-      href: 'https://drive.google.com/file/d/1G9tdtGRM9_9QVC3XAaLqtYOdWty3N_Xj/view'
+      href: 'https://drive.google.com/file/d/17zO9eZNc4hOr7AnYOZ5s8BpSbPhQ0bPH/view'
+      // href: 'https://drive.google.com/file/d/1G9tdtGRM9_9QVC3XAaLqtYOdWty3N_Xj/view'
     }
   ],
   socialLinks: [
